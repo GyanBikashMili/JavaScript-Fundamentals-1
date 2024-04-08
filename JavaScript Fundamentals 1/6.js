@@ -1,6 +1,6 @@
 let name = "Mithun";
 let email = "Mithun.s@pw.live";
-let age = "21";
+let age = "A";
 
 if (typeof name !== "string") {
   console.log("Name should be a string.");
